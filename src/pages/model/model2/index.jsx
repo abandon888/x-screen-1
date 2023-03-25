@@ -1,6 +1,5 @@
 import React from "react";
-
-function model1() {
+function model2() {
   return (
     <div>
       <div className="modelo-wrapper">
@@ -21,7 +20,8 @@ function model1() {
             }}
           >
             <iframe
-              src="https://app.modaiyun.com/embedded/1638806643092013056?viewport=false&autoplay=false&autorotate=false&hideTools=false&showBIM=false&showBBoxSize=false&showKooRender=false&showSettings=false"
+              src="
+              https://app.modaiyun.com/embedded/1638836493060194304?viewport=false&autoplay=false&autorotate=false&hideTools=false&showBIM=false&showBBoxSize=false&showKooRender=false&showSettings=false"
               style={{ width: "100%", height: "100%" }}
               frameBorder="0"
               mozallowfullscreen="true"
@@ -35,4 +35,4 @@ function model1() {
   );
 }
 
-export default model1;
+export default model2;
